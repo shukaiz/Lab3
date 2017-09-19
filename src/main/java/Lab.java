@@ -24,6 +24,8 @@ public class Lab {
 
     public static void main (String[] args) {
 
+        //Temporary solution
+
         String website = Lab.urlToString("http://erdani.com/tdpl/hamlet.txt");
 
         int wordCount = 0;
